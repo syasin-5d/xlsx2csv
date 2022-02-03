@@ -6,3 +6,8 @@ xlsx ファイルを csv 区切りにファイルに変換する python スク�
 文字コードは utf-8 です。
 
 `python xlsx2csv.py src dst`
+
+## DEPENDENCY
+this script uses these python packages
+- openpyxl
+- natsorted
